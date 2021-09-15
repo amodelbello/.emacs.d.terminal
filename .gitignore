@@ -1,0 +1,13 @@
+*~
+*.elc
+auto-save-list
+savehist
+saveplace
+eshell
+elpa
+.DS_Store
+/var/pcache
+transient/
+var/
+.cache/
+.mc-lists.el
